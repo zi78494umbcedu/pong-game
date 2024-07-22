@@ -91,8 +91,8 @@ body {
   padding: 10px;
 }
 .vignett {
-  height: 100dvh;
-  width: 100dvh;
+  height: 1000dvh;
+  width: 1000dvh;
   background: radial-gradient(
     circle,
     rgba(0, 0, 0, 0) 50%,
